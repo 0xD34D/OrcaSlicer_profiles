@@ -1,0 +1,39 @@
+{
+    "default_filament_colour": [
+        "#F66151"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "24"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "Eryone Silk PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Eryone Silk PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "overhang_fan_threshold": [
+        "75%"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "1.5.1.2"
+}

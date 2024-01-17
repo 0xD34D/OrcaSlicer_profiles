@@ -1,0 +1,48 @@
+{
+    "default_filament_colour": [
+        "#C0BFBC"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retraction_length": [
+        "0.5"
+    ],
+    "filament_settings_id": [
+        "e3v3 - SainSmart HF PLA"
+    ],
+    "filament_vendor": [
+        "SainSmart"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "e3v3 - SainSmart HF PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "180"
+    ],
+    "pressure_advance": [
+        "0.013"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

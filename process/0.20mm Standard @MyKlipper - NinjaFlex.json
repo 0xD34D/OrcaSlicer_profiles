@@ -1,0 +1,19 @@
+{
+    "from": "User",
+    "gap_infill_speed": "20",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "initial_layer_infill_speed": "20",
+    "initial_layer_speed": "20",
+    "inner_wall_speed": "35",
+    "internal_solid_infill_speed": "35",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @MyKlipper - NinjaFlex",
+    "outer_wall_speed": "20",
+    "overhang_2_4_speed": "50%",
+    "overhang_3_4_speed": "30%",
+    "overhang_4_4_speed": "10%",
+    "print_settings_id": "0.20mm Standard @MyKlipper - NinjaFlex",
+    "sparse_infill_speed": "35",
+    "top_surface_speed": "20",
+    "version": "1.6.1.0"
+}

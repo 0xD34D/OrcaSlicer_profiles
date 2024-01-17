@@ -1,0 +1,33 @@
+{
+    "default_filament_colour": [
+        "#9141AC"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "24"
+    ],
+    "filament_flow_ratio": [
+        "0.91"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "Silky PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Silky PLA",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "1.5.1.2"
+}

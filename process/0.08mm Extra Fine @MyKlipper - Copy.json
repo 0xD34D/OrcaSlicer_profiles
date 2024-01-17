@@ -1,0 +1,12 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.08mm Extra Fine @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.08mm Extra Fine @MyKlipper - Copy",
+    "print_settings_id": "0.08mm Extra Fine @MyKlipper - Copy",
+    "support_on_build_plate_only": "1",
+    "support_style": "tree_strong",
+    "support_type": "tree(auto)",
+    "version": "1.6.0.0"
+}

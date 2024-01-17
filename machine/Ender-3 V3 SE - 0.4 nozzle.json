@@ -1,0 +1,50 @@
+{
+    "bed_custom_model": "/home/clark/OrcaSlicer/resources/profiles/Creality/creality_ender3s1pro_buildplate_model.stl",
+    "bed_custom_texture": "/home/clark/OrcaSlicer/resources/profiles/Creality/creality_ender3s1pro_buildplate_texture.png",
+    "before_layer_change_gcode": "",
+    "deretraction_speed": [
+        "35"
+    ],
+    "fan_speedup_time": "1",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "layer_change_gcode": "TIMELAPSE_TAKE_FRAME",
+    "machine_end_gcode": "; Klipper end program\nPRINT_END\n",
+    "machine_max_acceleration_x": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_speed_z": [
+        "20",
+        "12"
+    ],
+    "machine_start_gcode": "; Klipper start program\nPRINT_START EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature]",
+    "manual_filament_change": "1",
+    "name": "Ender-3 V3 SE - 0.4 nozzle",
+    "nozzle_type": "brass",
+    "print_host": "192.168.68.139:7128",
+    "print_host_webui": "192.168.68.139",
+    "printable_area": [
+        "0x0",
+        "230x0",
+        "230x230",
+        "0x230"
+    ],
+    "printer_settings_id": "Ender-3 V3 SE - 0.4 nozzle",
+    "printer_structure": "i3",
+    "printhost_apikey": "7e33ee62259546ff8bc874f33b448581",
+    "retraction_length": [
+        "0.6"
+    ],
+    "retraction_speed": [
+        "35"
+    ],
+    "thumbnails": [
+        "200x200"
+    ],
+    "version": "1.5.1.2"
+}

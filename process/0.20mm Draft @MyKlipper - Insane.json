@@ -1,0 +1,22 @@
+{
+    "bottom_shell_layers": "2",
+    "default_acceleration": "10000",
+    "from": "User",
+    "inherits": "0.24mm Draft @MyKlipper",
+    "inner_wall_acceleration": "10000",
+    "inner_wall_speed": "500",
+    "internal_solid_infill_speed": "500",
+    "is_custom_defined": "0",
+    "layer_height": "0.2",
+    "name": "0.20mm Draft @MyKlipper - Insane",
+    "outer_wall_speed": "300",
+    "print_settings_id": "0.20mm Draft @MyKlipper - Insane",
+    "sparse_infill_density": "10%",
+    "sparse_infill_speed": "500",
+    "top_shell_layers": "2",
+    "top_surface_acceleration": "5000",
+    "top_surface_speed": "250",
+    "travel_acceleration": "10000",
+    "version": "1.6.1.0",
+    "wall_loops": "2"
+}

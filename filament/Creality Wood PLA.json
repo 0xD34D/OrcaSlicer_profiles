@@ -1,0 +1,36 @@
+{
+    "default_filament_colour": [
+        "#CDAB8F"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "0.82"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.8"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Creality Wood PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Creality Wood PLA",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

@@ -1,0 +1,42 @@
+{
+    "default_filament_colour": [
+        "#C0BFBC"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_retraction_length": [
+        "0.2"
+    ],
+    "filament_settings_id": [
+        "Elegoo Rapid PLA+"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Elegoo Rapid PLA+",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.016"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

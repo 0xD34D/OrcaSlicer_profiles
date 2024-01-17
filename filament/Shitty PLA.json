@@ -1,0 +1,39 @@
+{
+    "default_filament_colour": [
+        "#FF5B8D"
+    ],
+    "filament_retraction_length": [
+        "3"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "Shitty PLA"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Auto Lift"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Shitty PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "170"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

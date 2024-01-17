@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#EAFFC5"
+    ],
+    "filament_settings_id": [
+        "Amolen - Glow In The Dark PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Amolen - Glow In The Dark PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "version": "1.5.1.2"
+}

@@ -1,0 +1,33 @@
+{
+    "default_filament_colour": [
+        "#CDAB8F"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.8"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Wood PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Wood PLA",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

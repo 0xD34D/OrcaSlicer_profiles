@@ -1,0 +1,49 @@
+{
+    "bed_custom_model": "/home/clark/OrcaSlicer/resources/profiles/Artillery/artillery_sidewinderx2_buildplate_model.stl",
+    "bed_custom_texture": "/home/clark/OrcaSlicer/resources/profiles/Artillery/artillery_sidewinderx2_buildplate_texture.png",
+    "before_layer_change_gcode": "",
+    "deretraction_speed": [
+        "45"
+    ],
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "layer_change_gcode": "TIMELAPSE_TAKE_FRAME\n",
+    "machine_max_acceleration_e": [
+        "7000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "7000",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "7000",
+        "5000"
+    ],
+    "machine_max_acceleration_x": [
+        "7000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "7000",
+        "20000"
+    ],
+    "machine_start_gcode": "; Klipper start program\nPRINT_START EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature] AREA_START={first_layer_print_min[0]},{first_layer_print_min[1]} AREA_END={first_layer_print_max[0]},{first_layer_print_max[1]}",
+    "name": "Sidewinder X2 - 0.6 nozzle",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "print_host": "192.168.68.126",
+    "printable_area": [
+        "0x0",
+        "300x0",
+        "300x300",
+        "0x300"
+    ],
+    "printable_height": "400",
+    "printer_settings_id": "Sidewinder X2 - 0.6 nozzle",
+    "retraction_speed": [
+        "45"
+    ],
+    "version": "1.6.0.0"
+}

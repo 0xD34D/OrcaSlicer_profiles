@@ -1,0 +1,51 @@
+{
+    "default_filament_colour": [
+        "#E01B24"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "filament_max_volumetric_speed": [
+        "12.5"
+    ],
+    "filament_retraction_length": [
+        "0.5"
+    ],
+    "filament_retraction_speed": [
+        "80"
+    ],
+    "filament_settings_id": [
+        "Tronxy TPU"
+    ],
+    "filament_type": [
+        "TPU"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "My Generic PLA",
+    "name": "Tronxy TPU",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

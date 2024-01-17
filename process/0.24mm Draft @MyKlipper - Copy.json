@@ -1,0 +1,23 @@
+{
+    "brim_type": "no_brim",
+    "default_acceleration": "2500",
+    "enable_arc_fitting": "1",
+    "from": "User",
+    "inherits": "0.24mm Draft @MyKlipper",
+    "initial_layer_infill_speed": "75",
+    "initial_layer_speed": "30",
+    "inner_wall_acceleration": "2500",
+    "is_custom_defined": "0",
+    "name": "0.24mm Draft @MyKlipper - Copy",
+    "outer_wall_acceleration": "1500",
+    "precise_outer_wall": "1",
+    "print_settings_id": "0.24mm Draft @MyKlipper - Copy",
+    "skirt_loops": "1",
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "zig-zag",
+    "support_on_build_plate_only": "1",
+    "top_surface_acceleration": "1500",
+    "travel_acceleration": "2500",
+    "travel_speed": "200",
+    "version": "1.5.1.2"
+}

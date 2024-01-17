@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#62A0EA"
+    ],
+    "filament_settings_id": [
+        "Generic PLA"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PLA",
+    "name": "Generic PLA",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

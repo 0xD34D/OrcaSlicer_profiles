@@ -1,0 +1,30 @@
+{
+    "default_filament_colour": [
+        "#C0BFBC"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "25"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "Ender3-SainSmart HF PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Ender3-SainSmart HF PLA",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

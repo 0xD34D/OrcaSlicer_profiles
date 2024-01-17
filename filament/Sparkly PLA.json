@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#613583"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Sparkly PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Sparkly PLA",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_min_speed": [
+        "5"
+    ],
+    "version": "1.5.1.2"
+}

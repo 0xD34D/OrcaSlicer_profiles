@@ -1,0 +1,51 @@
+{
+    "default_filament_colour": [
+        "#F6D32D"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "26"
+    ],
+    "filament_flow_ratio": [
+        "0.92"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retraction_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "Generic PVB"
+    ],
+    "filament_type": [
+        "PVB"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "inherits": "My Generic PLA",
+    "name": "Generic PVB",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "pressure_advance": [
+        "0.05"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

@@ -1,0 +1,50 @@
+{
+    "before_layer_change_gcode": "",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "layer_change_gcode": "TIMELAPSE_TAKE_FRAME",
+    "machine_end_gcode": "; Klipper end program\nPRINT_END\n",
+    "machine_max_acceleration_x": [
+        "3000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "3000",
+        "20000"
+    ],
+    "machine_max_speed_x": [
+        "250",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "250",
+        "200"
+    ],
+    "machine_start_gcode": "; Klipper start program\nPRINT_START EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature] AREA_START={first_layer_print_min[0]},{first_layer_print_min[1]} AREA_END={first_layer_print_max[0]},{first_layer_print_max[1]}",
+    "max_layer_height": [
+        "0.4"
+    ],
+    "min_layer_height": [
+        "0.1"
+    ],
+    "name": "MyKlipper 0.6 nozzle",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "print_host": "192.168.68.137",
+    "printable_area": [
+        "0x0",
+        "220x0",
+        "220x220",
+        "0x220"
+    ],
+    "printer_settings_id": "MyKlipper 0.6 nozzle",
+    "printhost_apikey": "fa7bfd85edca4f99bb234f41d5909770",
+    "retraction_length": [
+        "2"
+    ],
+    "thumbnails": [
+        "200x200"
+    ],
+    "version": "1.5.1.2"
+}

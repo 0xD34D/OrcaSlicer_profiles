@@ -1,0 +1,14 @@
+{
+    "default_acceleration": "2500",
+    "from": "User",
+    "inherits": "0.12mm Fine @MyKlipper",
+    "inner_wall_acceleration": "2500",
+    "name": "0.12mm Fine @MyKlipper - Copy",
+    "outer_wall_acceleration": "1500",
+    "print_settings_id": "0.12mm Fine @MyKlipper - Copy",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "zig-zag",
+    "top_surface_acceleration": "1500",
+    "travel_acceleration": "2500",
+    "version": "1.5.1.2"
+}

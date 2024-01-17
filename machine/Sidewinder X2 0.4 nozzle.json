@@ -1,0 +1,43 @@
+{
+    "bed_custom_model": "/home/clark/OrcaSlicer/resources/profiles/Artillery/artillery_sidewinderx2_buildplate_model.stl",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Artillery Sidewinder X2 0.4 nozzle",
+    "machine_max_acceleration_x": [
+        "4000",
+        "960"
+    ],
+    "machine_max_acceleration_y": [
+        "4000",
+        "960"
+    ],
+    "machine_max_acceleration_z": [
+        "4000",
+        "1000"
+    ],
+    "machine_max_speed_x": [
+        "500",
+        "100"
+    ],
+    "machine_max_speed_y": [
+        "500",
+        "100"
+    ],
+    "machine_max_speed_z": [
+        "15",
+        "12"
+    ],
+    "max_layer_height": [
+        "0.32"
+    ],
+    "min_layer_height": [
+        "0.08"
+    ],
+    "name": "Sidewinder X2 0.4 nozzle",
+    "print_host": "192.168.68.126",
+    "printer_settings_id": "Sidewinder X2 0.4 nozzle",
+    "retraction_speed": [
+        "85"
+    ],
+    "version": "1.4.4.0"
+}

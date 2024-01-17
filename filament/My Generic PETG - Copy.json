@@ -1,0 +1,30 @@
+{
+    "default_filament_colour": [
+        "#77767B"
+    ],
+    "fan_max_speed": [
+        "75"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "My Generic PETG - Copy"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
+    "inherits": "My Generic PETG",
+    "name": "My Generic PETG - Copy",
+    "nozzle_temperature": [
+        "248"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "248"
+    ],
+    "version": "1.5.1.2"
+}

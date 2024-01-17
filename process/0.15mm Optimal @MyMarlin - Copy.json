@@ -1,0 +1,18 @@
+{
+    "bridge_speed": "30",
+    "from": "User",
+    "gap_infill_speed": "60",
+    "inherits": "0.15mm Optimal @MyMarlin",
+    "initial_layer_infill_speed": "40",
+    "initial_layer_speed": "30",
+    "inner_wall_speed": "60",
+    "internal_solid_infill_speed": "60",
+    "name": "0.15mm Optimal @MyMarlin - Copy",
+    "outer_wall_speed": "45",
+    "overhang_2_4_speed": "30",
+    "overhang_3_4_speed": "20",
+    "print_settings_id": "0.15mm Optimal @MyMarlin - Copy",
+    "sparse_infill_speed": "60",
+    "top_surface_speed": "40",
+    "version": "1.5.1.2"
+}
