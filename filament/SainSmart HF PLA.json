@@ -6,10 +6,10 @@
         "1"
     ],
     "filament_flow_ratio": [
-        "1.067"
+        "0.93"
     ],
     "filament_max_volumetric_speed": [
-        "35"
+        "25"
     ],
     "filament_retraction_length": [
         "0.6"
@@ -17,11 +17,14 @@
     "filament_settings_id": [
         "SainSmart HF PLA"
     ],
+    "filament_vendor": [
+        "SainSmart"
+    ],
     "from": "User",
     "inherits": "My Generic PLA",
     "name": "SainSmart HF PLA",
     "nozzle_temperature": [
-        "215"
+        "205"
     ],
     "nozzle_temperature_initial_layer": [
         "210"
@@ -33,7 +36,7 @@
         "180"
     ],
     "pressure_advance": [
-        "0.02826"
+        "0.0105"
     ],
     "reduce_fan_stop_start_freq": [
         "0"

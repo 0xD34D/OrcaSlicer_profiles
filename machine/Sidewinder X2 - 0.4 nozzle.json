@@ -33,6 +33,7 @@
         "0.04"
     ],
     "name": "Sidewinder X2 - 0.4 nozzle",
+    "nozzle_type": "brass",
     "print_host": "192.168.68.126",
     "printable_area": [
         "0x0",
@@ -42,9 +43,12 @@
     ],
     "printable_height": "400",
     "printer_settings_id": "Sidewinder X2 - 0.4 nozzle",
+    "printer_structure": "i3",
     "retraction_speed": [
         "85"
     ],
+    "support_air_filtration": "0",
+    "support_chamber_temp_control": "0",
     "version": "1.6.0.0",
     "wipe": [
         "0"

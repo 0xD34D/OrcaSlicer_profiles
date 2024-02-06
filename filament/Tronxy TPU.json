@@ -15,7 +15,7 @@
         "0.5"
     ],
     "filament_retraction_speed": [
-        "80"
+        "40"
     ],
     "filament_settings_id": [
         "Tronxy TPU"

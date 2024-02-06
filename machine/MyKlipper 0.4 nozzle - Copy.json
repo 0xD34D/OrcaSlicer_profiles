@@ -1,8 +1,5 @@
 {
     "before_layer_change_gcode": "",
-    "deretraction_speed": [
-        "35"
-    ],
     "from": "User",
     "inherits": "MyKlipper 0.4 nozzle",
     "layer_change_gcode": "TIMELAPSE_TAKE_FRAME",
@@ -24,18 +21,18 @@
         "200"
     ],
     "machine_start_gcode": "; Klipper start program\nPRINT_START EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature] AREA_START={first_layer_print_min[0]},{first_layer_print_min[1]} AREA_END={first_layer_print_max[0]},{first_layer_print_max[1]}",
-    "name": "Ender3 0.4 nozzle",
-    "print_host": "192.168.1.235",
+    "name": "MyKlipper 0.4 nozzle - Copy",
+    "print_host": "octopi.local",
     "printable_area": [
         "0x0",
         "220x0",
-        "220x235",
-        "0x235"
+        "220x220",
+        "0x220"
     ],
-    "printer_settings_id": "Ender3 0.4 nozzle",
-    "printhost_apikey": "7e33ee62259546ff8bc874f33b448581",
-    "retraction_speed": [
-        "35"
+    "printer_settings_id": "MyKlipper 0.4 nozzle - Copy",
+    "printhost_apikey": "fa7bfd85edca4f99bb234f41d5909770",
+    "retraction_length": [
+        "2"
     ],
     "thumbnails": [
         "200x200"

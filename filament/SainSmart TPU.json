@@ -23,6 +23,9 @@
     "filament_type": [
         "TPU"
     ],
+    "filament_vendor": [
+        "SainSmart"
+    ],
     "filament_z_hop": [
         "0"
     ],
