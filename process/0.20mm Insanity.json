@@ -1,6 +1,7 @@
 {
     "bridge_no_support": "1",
     "default_acceleration": "12000",
+    "enable_arc_fitting": "1",
     "from": "User",
     "gap_infill_speed": "200",
     "infill_combination": "1",
