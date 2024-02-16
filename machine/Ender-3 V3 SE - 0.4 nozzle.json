@@ -26,8 +26,8 @@
     "manual_filament_change": "1",
     "name": "Ender-3 V3 SE - 0.4 nozzle",
     "nozzle_type": "brass",
-    "print_host": "192.168.68.139:7128",
-    "print_host_webui": "192.168.68.139",
+    "print_host": "192.168.68.126:7128",
+    "print_host_webui": "192.168.68.126",
     "printable_area": [
         "0x0",
         "230x0",
