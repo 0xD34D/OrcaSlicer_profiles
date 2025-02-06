@@ -1,32 +1,38 @@
 {
     "default_filament_colour": [
-        "#C0BFBC"
+        "#3D3846"
     ],
     "enable_pressure_advance": [
         "1"
     ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "1.05"
+    ],
     "filament_max_volumetric_speed": [
-        "15"
+        "30"
     ],
     "filament_retraction_length": [
-        "0.6"
+        "0.2"
     ],
     "filament_settings_id": [
-        "Ender3-SainSmart HF PLA"
+        "Elegoo PLA+"
+    ],
+    "filament_vendor": [
+        "Elegoo"
     ],
     "from": "User",
     "inherits": "My Generic PLA",
-    "name": "Ender3-SainSmart HF PLA",
-    "nozzle_temperature": [
-        "205"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "210"
+    "name": "Elegoo PLA+",
+    "nozzle_temperature_range_low": [
+        "200"
     ],
     "pressure_advance": [
-        "0.059"
+        "0.07"
     ],
-    "slow_down_for_layer_cooling": [
+    "reduce_fan_stop_start_freq": [
         "0"
     ],
     "version": "1.5.1.2"

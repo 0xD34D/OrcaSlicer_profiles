@@ -1,54 +1,51 @@
 {
     "default_filament_colour": [
-        "#F6D32D"
+        "#FFAEE5"
     ],
     "enable_pressure_advance": [
         "1"
     ],
+    "fan_max_speed": [
+        "75"
+    ],
     "fan_min_speed": [
-        "25"
-    ],
-    "filament_cost": [
-        "26"
-    ],
-    "filament_flow_ratio": [
-        "1"
-    ],
-    "filament_max_volumetric_speed": [
         "20"
     ],
-    "filament_retraction_speed": [
-        "45"
+    "filament_flow_ratio": [
+        "1.02"
     ],
     "filament_settings_id": [
-        "Generic PVB"
+        "Overture PETG (Pink)"
     ],
-    "filament_type": [
-        "PVB"
+    "filament_vendor": [
+        "Overture"
     ],
     "filament_z_hop": [
         "0"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "65"
-    ],
-    "inherits": "My Generic PLA",
-    "name": "Generic PVB",
+    "inherits": "My Generic PETG",
+    "name": "Overture PETG (Pink)",
     "nozzle_temperature": [
-        "200"
+        "240"
     ],
     "nozzle_temperature_initial_layer": [
-        "205"
+        "240"
     ],
     "nozzle_temperature_range_high": [
-        "220"
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
     ],
     "pressure_advance": [
-        "0.0644"
+        "0.08"
     ],
     "reduce_fan_stop_start_freq": [
         "0"
+    ],
+    "slow_down_min_speed": [
+        "20"
     ],
     "version": "1.5.1.2"
 }

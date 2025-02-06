@@ -1,36 +1,60 @@
 {
     "default_filament_colour": [
-        "#C0BFBC"
+        "#FFFFFF"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
     ],
     "enable_pressure_advance": [
         "1"
     ],
+    "fan_max_speed": [
+        "75"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
     "filament_flow_ratio": [
-        "0.97"
+        "1.02"
     ],
     "filament_max_volumetric_speed": [
         "17.5"
     ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
     "filament_settings_id": [
-        "Elegoo Rapid PLA+"
+        "Elegoo Rapid PETG (White)"
+    ],
+    "filament_type": [
+        "PETG"
     ],
     "filament_vendor": [
         "Elegoo"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
     "inherits": "My Generic PLA",
-    "name": "Elegoo Rapid PLA+",
+    "name": "Elegoo Rapid PETG (White)",
     "nozzle_temperature": [
-        "215"
+        "240"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
     ],
     "nozzle_temperature_range_low": [
-        "200"
+        "230"
     ],
     "pressure_advance": [
-        "0.016"
+        "0.09332"
     ],
     "reduce_fan_stop_start_freq": [
         "0"
